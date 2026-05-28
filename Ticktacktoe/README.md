@@ -6,4 +6,4 @@ I spent a long time trying to figure out how to implement the game board, which 
 Unfortunately, the source code didn't survive, and only the binary file remains. I’d love to take a look at what I actually did back in 2019 myself. 
 For now, we can only watch a video of how it worked. By the way, there is no bot mode in this version.
 
-<video src="./letsplay.mp4" controls width="100%"></video>
+![Watch](letsplay.mp4)
